@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quikemon Portfolio</string>
+
+    <string name="hello_world">My Nanodegree Apps!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_streamer">SPOTIFY STREAMER</string>
+    <string name="button_scores">SCORES APP</string>
+    <string name="button_library">LIBRARY APP</string>
+    <string name="button_build">BUILD IT BIGGER</string>
+    <string name="button_xyz">XYZ READER</string>
+    <string name="button_own_app">CAPSTONE: MY OWN APP</string>
+
+</resources>
